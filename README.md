@@ -10,16 +10,16 @@ The Food101 dataset consists of 101 food categories, with 101,000 images. For ea
 EfficientNetB2 is a convolutional neural network that is both highly efficient and effective, scaling up to achieve state-of-the-art accuracy on a variety of datasets. More details about EfficientNet can be found in the original paper.
 
 ## Requirements
-```
-torch==2.1.2
-torchvision==0.16.2
-tqdm==4.66.1
-matplotlib==3.7.5
-numpy==1.26.4
-pandas==2.2.0
-sklearn==1.2.2
-torchinfo==1.8.0
-```
+
+- torch==2.1.2
+- torchvision==0.16.2
+- tqdm==4.66.1
+- matplotlib==3.7.5
+- numpy==1.26.4
+- pandas==2.2.0
+- sklearn==1.2.2
+- torchinfo==1.8.0
+
 
 ## Usage
 1. Clone the repository: 
